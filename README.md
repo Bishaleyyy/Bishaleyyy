@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Frontend Developer and BSc. CSIT student from Nepal.<br>I enjoy building modern web experiences, editing videos, and exploring 3D design with Blender.<br><br>- 🌱 Currently learning **Blender & Modern Web Development**<br>- 💻 Skilled in **HTML, CSS, JavaScript, & Basic PHP**<br>- 🎬 Interested in **Frontend Development, & Video Editing**<br>- 📫 Reach me: **sapkotabishal447@gmail.com**
+Passionate Frontend Developer and BSc. CSIT student from Nepal.<br>I enjoy building modern web experiences, editing videos, and exploring 3D design with Blender.<br><br>- 🌱 Currently learning **Blender & Modern Web Development**<br>- 💻 Skilled in **HTML, CSS, JavaScript, & Basic PHP**<br>- 🎬 Interested in **Frontend Development & Video Editing**<br>- 📫 Reach me: **sapkotabishal447@gmail.com**
 
 
 ## 🌐 Socials:
