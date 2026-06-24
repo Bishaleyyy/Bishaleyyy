@@ -1,6 +1,9 @@
 # 💫 About Me:
 Passionate Frontend Developer and BSc. CSIT student from Nepal.<br>I enjoy building modern web experiences, editing videos, and exploring 3D design with Blender.<br><br>- 🌱 Currently learning **Blender & Modern Web Development**<br>- 💻 Skilled in **HTML, CSS, JavaScript, & Basic PHP**<br>- 🎬 Interested in **Frontend Development & Video Editing**<br>- 📫 Reach me: **sapkotabishal447@gmail.com**
 
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bishal.sapkota.50309) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bishaleyyyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishal-sapkota-94b612358/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bishaleyyyy_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sapkotabishal447@gmail.com) 
