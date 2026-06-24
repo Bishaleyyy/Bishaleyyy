@@ -15,10 +15,6 @@ Passionate Frontend Developer and BSc. CSIT student from Nepal.<br>I enjoy build
 ![](https://streak-stats.demolab.com/?user=Bishaleyyy&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bishaleyyy&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bishaleyyy&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
